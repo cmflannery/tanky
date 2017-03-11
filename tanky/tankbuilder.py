@@ -5,6 +5,7 @@ import core.structural
 
 
 def main():
+    print('main')
     return 0
 
 
