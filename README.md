@@ -10,3 +10,9 @@ Currently in pre-release. Code has not been validated or verified. __Use With Ca
 
 ### Running tanky
 Tanky requires python3. Future development will add functionality for python2.
+
+
+### Verification and Validation
+
+#### Pylint
+Regular pylint tests should be run to access code cleaniness.

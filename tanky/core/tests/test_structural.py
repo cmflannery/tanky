@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 import pytest
 
-def test_stuff():
+
+def test_s():
     return 0
