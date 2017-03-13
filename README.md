@@ -11,6 +11,8 @@ Currently in pre-release. Code has not been validated or verified. __Use With Ca
 ### Running tanky
 Tanky requires python3. Future development will add functionality for python2.
 
+#### Input File
+input.xlsx is an excel input file. tanky looks in the input folder for a file named input.xlsx. Future versions may support multiple input files for one run. The output files are generated and stored in an output folder, named with a timestamp. The user should input values into the yellow highlited cells in the input file.
 
 ### Verification and Validation
 

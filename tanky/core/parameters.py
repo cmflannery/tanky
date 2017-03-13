@@ -8,10 +8,10 @@ class DesignParameters:
 
     def prompt_sf(self, *arg):
         if len(arg) == 0:
-            continue
+            pass
         else:
-            arg(1) = self.sfy
-            arg(2) = self.sfu
+            arg[1] = self.sfy
+            arg[2] = self.sfu
         try:
             self.sfy = eval(input("Enter the Yield Factor of Safety: "))
             self.sfu = eval(input("Enter the Ultimate Factor of Safety: "))
